@@ -44,7 +44,7 @@ The program is divided into the following classes and functions:
 - MOVE_INTERVAL: Controls the snake's movement speed, reducing as the score increases.
 
 # Screenshot
-![Snake Game Screenshot](snake game.PNG)
+![screenshot](snake game.PNG)
 
 
 
